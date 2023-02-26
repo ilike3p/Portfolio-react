@@ -17,7 +17,7 @@ function Contact() {
     return (
         <div className="contact" id="contact">
             <div className="left">
-           < img src="https://user-images.githubusercontent.com" alt="Contact Me" />
+           < img src="https://www.linkedin.com/in/tray-pearce-04018a20/" alt="Contact Me" />
            </div>
             <div className="right">
                 <h2>Contact</h2>
