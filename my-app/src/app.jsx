@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import './app.scss';
 // import Navigation from './components/Navigation';
-import Navigation from "./components/Navigation/Navigation";
-import About from "./components/About/About";
-import Resume from './components/Resume/Resume';
-import Portfolio from './components/Portfolio/Portfolio';
-import Contact from './components/Contact/Contact';
-import Footer from './components/Footer/Footer';
+import Navigation from "my-app/src/components/utils/Navigation/Navigation.jsx"
+import About from "my-app/src/components/utils/About/aboutme.jsx";
+import Resume from 'my-app/src/components/utils/Resume/Resume.jsx';
+import Portfolio from 'my-app/src/components/utils/PortfolioLists/PortfolioList.jsx';
+import Contact from 'my-app/src/components/utils/Contact/Contact.jsx';
+import Footer from 'my-app/src/components/utils/Footer/Footer.jsx';
 
 
 function App() {
