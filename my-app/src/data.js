@@ -24,7 +24,7 @@ export const fullstackPortfolio = [
       id: 4,
       title: "Professional Portfolio",
       img: "https://user-images.githubusercontent.com/71200950/160569086-2613e589-2a5c-4450-abbd-43174dab8320.png",
-      url: "https://ilike3p.github.io/tri-angles/",
+      url: "https://ilike3p.github.io/My-Resume/",
     },
   
     {
@@ -84,7 +84,7 @@ export const fullstackPortfolio = [
       id: 13,
       title: "Tech Blog",
       img: "https://user-images.githubusercontent.com/71200950/153731140-8f9f2f21-e13b-490c-98d8-cc3351267340.png",
-      url: "",
+      url: "https://github.com/ilike3p/blog-tech",
     },
     {
       id: 14,
