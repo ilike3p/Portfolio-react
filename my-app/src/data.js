@@ -7,9 +7,9 @@ export const fullstackPortfolio = [
     },
     {
       id: 2,
-      title: "Messaging App",
+      title: "Game-Log",
       img: "https://user-images.githubusercontent.com/71200950/160572835-eec17800-f5bd-4da4-8790-6f1717f2348a.png",
-      url: "",
+      url: "https://github.com/ClassyKD/game-backlog",
     },
   
     {
@@ -88,9 +88,9 @@ export const fullstackPortfolio = [
     },
     {
       id: 14,
-      title: "Social Network API",
+      title: "My Buddy",
       img: "https://user-images.githubusercontent.com/71200950/160824539-be004675-9541-4f55-b58a-574fedc7660d.png",
-      url: "https://github.com/tringuyen1086/social-network-api-ultimate.git",
+      url: "https://github.com/gavinrn/MyBuddy",
     },
     {
       id: 15,
