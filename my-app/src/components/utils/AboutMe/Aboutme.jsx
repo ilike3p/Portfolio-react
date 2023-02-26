@@ -21,7 +21,7 @@ function About() {
         <div className="about" id="about">
             <div className="left">
                 <div className="imgContainer">
-                    <img src=png" alt="tri pic"/>
+                    <img src="https://ilike3p.github.io/My-Resume/" alt="tri pic"/>
                 </div>
             </div>
             <div className="right">
