@@ -1,8 +1,9 @@
 import React, { useState } from "react";
 import "./app.scss";
+
 // import Navigation from './components/Navigation';
-import Navigation from "./components/utils/Navigation/Navigation.jsx.js";
-import About from "./components/utils/About/aboutme.jsx.js";
+import Navigation from "../../my-app/src/components/utils/Navigation/Navigation.jsx.js.js";
+import About from "../../my-app/src/components/utils/About/aboutme.jsx.js.js";
 import Resume from "./components/utils/Resume/Resume.jsx";
 import Portfolio from "./components/utils/PortfolioLists/PortfolioList.jsx";
 import Contact from "./components/utils/Contact/Contact.jsx";
