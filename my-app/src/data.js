@@ -15,7 +15,7 @@ export const fullstackPortfolio = [
     {
       id: 3,
       title: "Flex-Fly",
-      img: "https://user-images.githubusercontent.com/71200950/167048110-9e85c0f8-bf31-43d8-85c0-90e2ee6b218d.png",
+      img: "https://github.com/YacovKopel/FlexFly/blob/main/assets/images/page2.jpeg",
       url: "https://yacovkopel.github.io/FlexFly/",
     },
   ];
@@ -30,14 +30,14 @@ export const fullstackPortfolio = [
     {
       id: 5,
       title: "Password Generator",
-      img: "https://user-images.githubusercontent.com/71200950/160573468-1c23a078-35f8-4041-a1aa-1c7b3d6d6cab.png",
+      img: "https://user-images.githubusercontent.com/39431924/211248225-1842fa47-f747-4484-8857-b4be4e8a4fb0.jpeg",
       url: "https://ilike3p.github.io/trail-password-blazers/",
     },
   
     {
       id: 6,
       title: "Coding Quiz Challenge",
-      img: "https://user-images.githubusercontent.com/71200950/160574210-5c932d83-cee2-4a00-9e87-0917c4ad2a85.png",
+      img: "https://user-images.githubusercontent.com/39431924/212234271-111b7cf5-bc24-4b7f-904e-ea46872dd8cb.png",
       url: "https://ilike3p.github.io/bet-you-loose/",
     },
   
@@ -50,7 +50,7 @@ export const fullstackPortfolio = [
     {
       id: 8,
       title: "Weather Dashboard",
-      img: "https://user-images.githubusercontent.com/71200950/160575131-1a49f378-8084-44f7-afe6-ccb4f62376b1.png",
+      img: "https://user-images.githubusercontent.com/39431924/214930519-f8d149be-f29e-4e7b-a907-cdf1e468512d.jpeg",
       url: "https://ilike3p.github.io/Its-getting-hot/",
     },
   ];
