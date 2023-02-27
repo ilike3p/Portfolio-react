@@ -1,13 +1,13 @@
 import React, { useState } from "react";
-import "./app.scss";
+import "./../src/";
 
 // import Navigation from './components/Navigation';
-import Navigation from "../../my-app/src/components/utils/Navigation/Navigation.jsx.js.js";
-import About from "../../my-app/src/components/utils/About/aboutme.jsx.js.js";
-import Resume from "./components/utils/Resume/Resume.jsx";
+import Navigation from "../src/components 2/utils/Navigation/Navigation";
+import About from "../src/components 2/utils/AboutMe/Aboutme";
+import Resume from "../src/components 2/utils/Resume/Resume";
 import Portfolio from "./components/utils/PortfolioLists/PortfolioList.jsx";
-import Contact from "./components/utils/Contact/Contact.jsx";
-import Footer from "./components/utils/Footer/Footer.jsx";
+import Contact from "../src/components 2/utils/Contact/Contact";
+import Footer from "../src/components 2/utils/Footer/Footer";
 
 function App() {
   return (
