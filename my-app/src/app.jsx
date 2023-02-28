@@ -2,12 +2,12 @@ import React, { useState } from "react";
 import "./../src/app.scss";
 
 // import Navigation from './components/Navigation';
-import Navigation from "../src/components 2/utils/Navigation/Navigation";
-import About from "../src/components 2/utils/AboutMe/Aboutme";
-import Resume from "../src/components 2/utils/Resume/Resume";
-import Portfolio from "./components/utils/PortfolioLists/PortfolioList.jsx";
-import Contact from "../src/components 2/utils/Contact/Contact";
-import Footer from "../src/components 2/utils/Footer/Footer";
+import Navigation from "./components/Navigation/Navigation";
+import About from "./components/AboutMe/About";
+import Resume from "./components/";
+import Portfolio from "./components/Portfolio/Portfolio";
+import Contact from "./components/Contact/Contact";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
