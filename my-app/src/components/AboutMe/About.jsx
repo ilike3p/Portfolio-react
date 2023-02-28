@@ -9,7 +9,7 @@ function About() {
   useEffect(() => {
     init(textRef.current, {
       showCursor: true,
-      backDelay: 1500,
+      backDelay: 1300,
       backSpeed: 60,
       strings: ["Full Stack Developer", "Web Dev", "Passionate Learner"],
     });
@@ -27,17 +27,16 @@ function About() {
           <h2>This is my Portfolio</h2>
           <h1>Tray Pearce</h1>
           <h3>
-            Web Developer <span ref={textRef}></span>
-          </h3>
-          <br />
-          <p>
-            {" "}
-            Passionate web developer, that enjoys createing web applications
+            Web Developer <span ref={textRef}></span></h3>
+          <br/>
+          <p>Passionate web developer, that enjoys createing web applications
             that are simple and improves everyones quality of life. I'm looking
             to optimized solutions that enhances the user experience.
+            
             <br /> <br />
             Recent bootcamp graduate with a passion for building dynamic and
             user-friendly web applications.
+           
             <br /> <br />
             Being an ambitious problem solver, I'm driven by a chanllenges and
             decided to follow the one ive been running from. I'm motivated by
@@ -45,6 +44,7 @@ function About() {
             spending my time enhancing my newly learned skills. Ultimately my
             dreams are now starting to come true by pursuing my career as a web
             developer.
+            
             <br /> <br />
             Completed the full stack web developent bootcamp at UCLA Extensions,
             I am actively seeking opportunities to expand my knowledge and
